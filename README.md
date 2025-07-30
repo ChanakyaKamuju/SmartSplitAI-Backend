@@ -77,10 +77,8 @@ MongoDB (local installation or a cloud service like MongoDB Atlas)
 Installation
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/SmartSplitAI-Backend.git
+git clone https://github.com/ChanakyaKamuju/SmartSplitAI-Backend.git
 cd SmartSplitAI-Backend
-
-(Replace YOUR_GITHUB_USERNAME with your actual GitHub username).
 
 Install dependencies:
 
